@@ -1,0 +1,10 @@
+H:\Kuliah\SMT 5\Jaringan\ColorPickerC\ColorPickerC\bin\Debug\ColorPickerC.exe.config
+H:\Kuliah\SMT 5\Jaringan\ColorPickerC\ColorPickerC\bin\Debug\ColorPickerC.exe
+H:\Kuliah\SMT 5\Jaringan\ColorPickerC\ColorPickerC\bin\Debug\ColorPickerC.pdb
+H:\Kuliah\SMT 5\Jaringan\ColorPickerC\ColorPickerC\obj\Debug\ColorPickerC.csprojAssemblyReference.cache
+H:\Kuliah\SMT 5\Jaringan\ColorPickerC\ColorPickerC\obj\Debug\ColorPickerC.Form1.resources
+H:\Kuliah\SMT 5\Jaringan\ColorPickerC\ColorPickerC\obj\Debug\ColorPickerC.Properties.Resources.resources
+H:\Kuliah\SMT 5\Jaringan\ColorPickerC\ColorPickerC\obj\Debug\ColorPickerC.csproj.GenerateResource.cache
+H:\Kuliah\SMT 5\Jaringan\ColorPickerC\ColorPickerC\obj\Debug\ColorPickerC.csproj.CoreCompileInputs.cache
+H:\Kuliah\SMT 5\Jaringan\ColorPickerC\ColorPickerC\obj\Debug\ColorPickerC.exe
+H:\Kuliah\SMT 5\Jaringan\ColorPickerC\ColorPickerC\obj\Debug\ColorPickerC.pdb
