@@ -76,7 +76,7 @@ namespace ColorPickerC
                 trackBlue.Value = colorDialog.Color.B;
             }
 
-            varGlobal.ColorClient = trackRed.Value + "," + trackGreen.Value + "," + trackBlue.Value;
+            varGlobal.ColorClient = trackRed.Value + "," + trackGreen.Value + "," + trackBlue.Value + ",";
             MessageBox.Show("RGB Warnanya adalah: " + varGlobal.ColorClient);
         }
 
